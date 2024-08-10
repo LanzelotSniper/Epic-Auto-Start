@@ -1,22 +1,23 @@
 # Epic-Auto-Start
+
 Dieses Programm startet den Epic Games Launcher automatisch, wenn der Computer hochgefahren wird und der Benutzer sich in den letzten sieben Tagen nicht bei Epic eingeloggt hat. Dadurch wird sichergestellt, dass zeitlich begrenzte, kostenlose Inhalte rechtzeitig abgeholt werden können.
-Datei herunterladen
-Lade die benötigte Datei herunter und speichere sie zum Beispiel auf deinem Desktop.
 
-Verknüpfung erstellen
+1. **Datei herunterladen**  
+   Lade die .exe Datei herunter und speichere sie zum Beispiel auf deinem Desktop.
 
-    Rechtsklicke auf die heruntergeladene Datei.
-    Wähle „Verknüpfung erstellen“.
+2. **Verknüpfung erstellen**  
+   Rechtsklicke auf die heruntergeladene Datei.  
+   Wähle „Verknüpfung erstellen“.
 
-Startup-Ordner öffnen
+3. **Startup-Ordner öffnen**  
+   Drücke Windows + R.  
+   Gib `shell:startup` ein und drücke „Enter“.
 
-    Drücke Windows + R.
-    Gib shell:startup ein und drücke „Enter“.
+4. **Verknüpfung einfügen**  
+   Ziehe die erstellte Verknüpfung in den geöffneten „Startup“-Ordner.
 
-Verknüpfung einfügen
-Ziehe die erstellte Verknüpfung in den geöffneten „Startup“-Ordner.
+5. **Programm einrichten**  
+   Starte das Programm über die Verknüpfung.  
+   Folge den angezeigten Anweisungen beim ersten Start.
 
-Programm einrichten
-
-    Starte das Programm über die Verknüpfung.
-    Folge den angezeigten Anweisungen beim ersten Start.
+Der Quellcode ist in der .py Datei zu sehen.
